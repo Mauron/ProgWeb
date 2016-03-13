@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+@font-face {
+	font-family: Unintended;
+	src: url('./fonts/Unintended/Unintended.ttf');
+	font-weight: 400;
+}
+
+body {
+	color: #999999;
+	background-color: #333333;
+	font-family: "Segoe UI", Calibri, Verdana, sans-serif
+}
+
+h1 {
+	font-family: 'Unintended', Calibri, Verdana, sans-serif;
+	color: #FFFFFF;
+}
+
+p {
+	
+}
+
+p#navbar {
+	font-family: "Courier New", "Times New Roman", sans-serif;
+	text-align: center;
+	background-color: #666666;
+	border: 1px dotted;
+}
+
+a:link {
+	color: #000000;
+}
+
+a:visited {
+	color: #FFFFFF;
+}
+
+a:hover {
+	color: #333333;
+}
+
+em {
+	font-family: serif;
+}
